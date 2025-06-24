@@ -45,49 +45,6 @@ The app automatically matches your topic to relevant, actionable content and cre
 - **Smart Topic Matching** - Keyword-based content selection
 - **Dynamic Text Generation** - Contextual titles and descriptions
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.8+ with pip
-- Node.js 18+ with npm
-- 8GB+ RAM (16GB recommended for AI features)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/NelsonSpencer/faceless-video-automation.git
-   cd faceless-video-automation
-   ```
-
-2. **Set up Python backend**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-3. **Set up frontend**
-   ```bash
-   cd frontend
-   npm install
-   ```
-
-4. **Start the application**
-   ```bash
-   # Terminal 1: Start API (from project root)
-   source venv/bin/activate
-   cd api
-   python main.py
-   
-   # Terminal 2: Start frontend (from project root)
-   cd frontend
-   npm run dev
-   ```
-
-5. **Open your browser**
-   - Frontend: http://localhost:3000
-   - API Docs: http://localhost:8000/docs
 
 ## 💡 Usage Examples
 
@@ -200,7 +157,7 @@ This is a personal project created for individual use. Feel free to explore the 
 
 ## 📞 Contact
 
-**Nelson Spencer** - [@nelsonspencer](https://github.com/nelsonspencer)
+**Nelson Spencer** - [Portfolio & Projects](https://www.nelsonspencer.com/projects)
 
 Project Link: [https://github.com/NelsonSpencer/faceless-video-automation](https://github.com/NelsonSpencer/faceless-video-automation)
 
