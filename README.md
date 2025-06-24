@@ -161,22 +161,22 @@ faceless-video-automation/
 └── requirements.txt           # Python dependencies
 ```
 
-## 🎯 Roadmap
+## 🎯 Future Enhancements
 
-### Phase 2: Enhanced Content (Q2 2024)
+### Enhanced Content Generation
 - [ ] AI-powered content generation with GPT integration
 - [ ] Custom brand templates and color schemes
-- [ ] Advanced typography options
+- [ ] Advanced typography and font options
 
-### Phase 3: Video Generation (Q3 2024)  
+### Video Generation Features
 - [ ] Automatic slideshow video compilation
 - [ ] Text-to-speech voiceover integration
-- [ ] Background music and transitions
+- [ ] Background music and smooth transitions
 
-### Phase 4: Platform Integration (Q4 2024)
+### Platform Integration
 - [ ] Direct social media posting
 - [ ] Analytics and performance tracking
-- [ ] Collaboration features
+- [ ] Team collaboration features
 
 ## 🤝 Contributing
 
