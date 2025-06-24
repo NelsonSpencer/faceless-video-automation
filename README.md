@@ -19,27 +19,14 @@ This project solves the common challenge of creating engaging social media conte
 - **📦 Easy Export**: Individual images or complete ZIP downloads
 - **🔄 Regeneration**: Quick content refresh with one click
 
-## 🖼️ Demo
+## 🎯 How It Works
 
-### Input → Output Example
-```
-Topic: "Top 5 Productivity Tips"
-Format: Landscape (YouTube)
-Background: Color Gradients
-```
+1. **Enter a Topic** - Type any subject like "productivity tips" or "travel hacks"
+2. **Choose Format** - Select landscape (YouTube) or portrait (TikTok/Instagram)
+3. **Pick Background** - Color gradients, stock images, or AI-generated
+4. **Generate & Download** - Get professional listicle images ready for social media
 
-**Generated Slides:**
-1. **Time Blocking** → "Schedule your day in focused chunks"
-2. **The 2-Minute Rule** → "If it takes less than 2 minutes, do it now"
-3. **Eliminate Distractions** → "Turn off notifications during deep work"
-4. **Batch Similar Tasks** → "Group emails, calls, and admin together"
-5. **Take Regular Breaks** → "Use the Pomodoro Technique for focus"
-
-### Screenshots
-
-| Web Interface | Generated Listicle |
-|---------------|-------------------|
-| ![Interface](https://via.placeholder.com/400x300?text=Clean+Web+Interface) | ![Output](https://via.placeholder.com/400x300?text=Professional+Output) |
+The app automatically matches your topic to relevant, actionable content and creates visually appealing slides with proper text formatting and professional layouts.
 
 ## 🛠️ Tech Stack
 
