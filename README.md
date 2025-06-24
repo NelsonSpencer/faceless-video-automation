@@ -2,9 +2,8 @@
 
 > A full-stack web application for generating professional social media listicles without showing your face. Perfect for creating engaging content for YouTube, TikTok, and Instagram.
 
-[![Demo](https://img.shields.io/badge/Demo-Live%20Preview-brightgreen)](#demo)
 [![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20FastAPI%20%7C%20AI-blue)](#tech-stack)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](#license)
+[![Status](https://img.shields.io/badge/Status-Personal%20Project-orange)](#overview)
 
 ## 🚀 Overview
 
@@ -188,9 +187,9 @@ This is a personal project, but feedback and suggestions are welcome!
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📝 Project Status
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This is a personal project created for individual use. Feel free to explore the code and implementation for learning purposes.
 
 ## 🙏 Acknowledgments
 
